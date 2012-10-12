@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroeconomicSimulator", "MicroeconomicSimulator\MicroeconomicSimulator.csproj", "{2C289422-0D81-49D6-801C-BEA6391F29CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C289422-0D81-49D6-801C-BEA6391F29CF}.Debug|x86.ActiveCfg = Debug|x86
+		{2C289422-0D81-49D6-801C-BEA6391F29CF}.Debug|x86.Build.0 = Debug|x86
+		{2C289422-0D81-49D6-801C-BEA6391F29CF}.Release|x86.ActiveCfg = Release|x86
+		{2C289422-0D81-49D6-801C-BEA6391F29CF}.Release|x86.Build.0 = Release|x86
+		{923A37DB-61B8-445D-B93C-5E38F614D6F8}.Debug|x86.ActiveCfg = Debug|x86
+		{923A37DB-61B8-445D-B93C-5E38F614D6F8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
